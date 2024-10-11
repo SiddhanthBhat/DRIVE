@@ -51,7 +51,7 @@ You can download the latest version of the MDROS ISO from the [Releases page](ht
 4. Click **Flash** and wait for the process to complete.
 5. Restart your computer and boot from the USB stick.
 
-####Issues and Support
+#### Issues and Support
 If you encounter any issues or have suggestions, please open an issue in the Issues tab.
 
 #### License
