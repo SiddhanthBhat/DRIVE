@@ -33,20 +33,20 @@
 
 ### Download the ISO
 
-You can download the latest version of the MDROS ISO from the [Releases page](https://github.com/yourusername/mdros/releases).
+You can download the latest version of the DRIVE ISO from the [Releases page](https://github.com/yourusername/mdros/releases).
 
 ### Creating a Bootable USB
 
 #### Using Rufus (Windows):
 1. Download and open [Rufus](https://rufus.ie/).
 2. Select your USB stick under **Device**.
-3. Select the MDROS ISO file under **Boot Selection**.
+3. Select the DRIVE ISO file under **Boot Selection**.
 4. Click **Start** and wait for the process to complete.
 5. Boot from the USB stick by restarting your computer and selecting the USB as the boot device in your BIOS/UEFI settings.
 
 #### Using Balena Etcher (Windows/Mac/Linux):
 1. Download and install [Balena Etcher](https://www.balena.io/etcher/).
-2. Open Etcher and click **Flash from file** to select the MDROS ISO.
+2. Open Etcher and click **Flash from file** to select the DRIVE ISO.
 3. Choose your USB stick as the target device.
 4. Click **Flash** and wait for the process to complete.
 5. Restart your computer and boot from the USB stick.
